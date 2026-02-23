@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎟 Movie Ticket Booking System
 
 ## 📌 Description
@@ -80,3 +81,7 @@ To build a scalable, secure, and user-friendly movie booking platform that simpl
 
 ## 👨‍💻 Author
 Harsh Gautam
+=======
+# Movie-Ticket-Booking-System-Backend-Project
+Movie Ticket Booking System where users can browse movies, view shows and seats, and book tickets online with email confirmation. Theater owners can add shows, and movie owners can monitor all movies, including tickets sold and user ratings. Built with Java and Spring Boot.
+>>>>>>> 45be6a4c271b9ce87ecec74df749219889ddfa14
